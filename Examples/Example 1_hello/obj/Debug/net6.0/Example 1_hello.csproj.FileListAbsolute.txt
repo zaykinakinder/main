@@ -1,0 +1,15 @@
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/bin/Debug/net6.0/Example 1_hello
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/bin/Debug/net6.0/Example 1_hello.deps.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/bin/Debug/net6.0/Example 1_hello.runtimeconfig.json
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/bin/Debug/net6.0/Example 1_hello.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/bin/Debug/net6.0/Example 1_hello.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/Example 1_hello.csproj.AssemblyReference.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/Example 1_hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/Example 1_hello.AssemblyInfoInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/Example 1_hello.AssemblyInfo.cs
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/Example 1_hello.csproj.CoreCompileInputs.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/Example 1_hello.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/refint/Example 1_hello.dll
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/Example 1_hello.pdb
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/Example 1_hello.genruntimeconfig.cache
+/Users/yuliazaikina/Desktop/Coding/c hash/Lecture 1.1/Examples/Example 1_hello/obj/Debug/net6.0/ref/Example 1_hello.dll
